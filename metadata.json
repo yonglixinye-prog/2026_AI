@@ -1,0 +1,7 @@
+{
+  "name": "AI Side Hustle 2026 Editor Pro",
+  "description": "A high-end reading and interaction experience for AI side hustle guides, featuring expert editing insights and an interactive AI mentor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
